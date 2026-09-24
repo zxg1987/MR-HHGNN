@@ -3,7 +3,7 @@
 PyTorch implementation of the hierarchical aggregation modules in
 
 > **A novel Hierarchical Heterogeneous Graph Network with Multi-domain Representation for Remaining Useful Life Prediction of Bearings**
-> Chenyang Hou, Xiaoguang Zhang\*, Haiyu Guo, Weiming Shen, Mingjian Zuo, Yiyang Liu, Peng Gao
+> Chenyang Hou, Xiaoguang Zhang\*, Haiyu Guo, Weiming Shen, Mingjian Zuo, Yiyang Liu, Peng Gao, Qiao Yu
 
 ## Usage
 
