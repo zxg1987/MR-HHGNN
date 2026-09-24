@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# experiment outputs, not part of this release
+*.pt
+*.pth
+*.npz
+*.json
+results/
+runs/
